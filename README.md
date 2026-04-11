@@ -39,6 +39,22 @@ A cybersecurity-focused AI platform that:
 **Tech Stack:** Django, Python, OpenAI API, Chart.js  
 
 ---
+
+### VETORA 
+An AI-powered pet healthcare platform designed to help pet owners understand symptoms and make informed decisions before visiting a veterinarian.
+
+- Secure authentication system (signup, login, password reset)
+- AI-driven symptom analysis with urgency classification
+- Real-time Weather Health Alerts based on user location
+- Environmental risk detection (heat, cold, storm conditions)
+- Nearby veterinary clinic discovery using location services
+- Pet profile management with persistent analysis history
+- User-specific data isolation and secure storage
+- Clinic-ready summaries and vet consultation questions
+
+**Tech Stack:** Django, Python, OpenAI API, OpenWeather API, Google Places API, OpenStreetMap (Nominatim), TheCatAPI, SQLite, HTML, CSS, JavaScript
+
+---
 ### Plutus (Financial Tracker)  
 A desktop-based personal finance management system that:
 
